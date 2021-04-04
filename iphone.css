@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+
+   
+
+body{
+    margin: 0px;
+    padding: 0px;
+
+  font-family: 'Source Sen Pro', sans-serif;
+}
+nav{
+    height: 40px;
+background: #000;
+}
+
+.menu {
+    position: relative;
+    margin: 0 auto;
+    width: 1000px;
+    overflow: hidden;
+    
+    
+}
+.menu ul{
+    width: 100%;
+    margin: 0;;
+    padding-right: 0;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.menu ul li {
+   
+    list-style: none;
+    
+ 
+    
+}
+
+
+.menu ul li a{
+    color: gray;
+   line-height: 35px;
+   text-decoration: none;
+     
+ }
+
+
+.menu ul li a:hover{
+   
+    color: #fff;
+    line-height: 35px;
+    text-decoration: none;
+    
+}
+
+
+
+
+
+.section{
+    display: block;
+    
+    display: flex;
+   text-align: left;
+    margin: 0px;
+}
+.iphonese{
+    margin-top: 150px;
+    margin-left: 50px;
+    
+}
+
+.iphonese img{
+    margin-top: 0px;
+   margin-left: 300px;
+    height: 600px;
+    
+    
+}
+#content #info{
+    font-size: 50px;
+    font-weight: 900;
+    font: 100px;
+    margin: 0px;
+}
+#content h2{
+    font-size: 40px;
+    font-weight: 450
+    font : 900px;
+}
+
+#content #mrp{
+    font-size: 30px;
+    font-weight: 100;
+    font: 900px;
+    margin: 0px;
+
+}
+
+#content #new{
+    font-size: 25px;
+    color: indianred;
+    font: 900px;
+    margin: 0px;
+
+} 
+
+.btn1{
+    background-color: rgb(53, 120, 245);
+    color: white;
+    margin-top: 25px;
+    padding: 6px 15px;
+    border-radius: 40px;
+    border-color:  rgb(53, 120, 245);
+    font-size: large;
+    cursor: pointer;
+}
+
+.btn1 :hover{
+    background-color: rgb(144, 181, 248);
+    color: white;
+  
+    padding: 6px 15px;
+    border-radius: 40px;
+    border-color:  rgb(144, 181, 248);
+   
+}
+
+
+
+/*..........*/
+
+.gap{
+    width: 100px;
+    height: 200px;
+    
+}
+
+/*.........*/
+
+
+.section1{
+    display: block;
+    
+    display: flex;
+   text-align: left;
+    margin: 0px;
+}
+.iphone11pro{
+    margin-top: 10px;
+    margin-left: 50px;
+    
+}
+
+.iphone11pro img{
+   margin-bottom: 100px;
+   margin-left: 300px;
+    height: 600px;
+    
+    
+}
+#content1 #info{
+    font-size: 50px;
+    font-weight: 900;
+    font: 100px;
+    margin: 0px;
+}
+#content1 h2{
+    font-size: 40px;
+    font-weight: 450
+    font : 900px;
+}
+
+#content1 #mrp{
+    font-size: 30px;
+    font-weight: 100;
+    font: 900px;
+    margin: 0px;
+
+}
+
+#content1 #new{
+    font-size: 25px;
+    color: indianred;
+    font: 900px;
+    margin: 0px;
+
+} 
+
+.heading{
+    margin-top: 100px;
+    text-align:center;
+    font-size: 50px;
+    font-weight: 900;
+    font: 100px;
+
+}
